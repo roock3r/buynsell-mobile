@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "775304850973",
+    "firebase_url": "https://buynsell-e84bb.firebaseio.com",
+    "project_id": "buynsell-e84bb",
+    "storage_bucket": "buynsell-e84bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775304850973:android:07cb3c3f8ce3bb8a7020f4",
+        "android_client_info": {
+          "package_name": "org.silvatech.buynsell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775304850973-de3aibnoj65vgmlhc7sl47q10jlqikkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP6sYMhdMT5J2bhBVPpXp8aHowT1Ig7Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775304850973-de3aibnoj65vgmlhc7sl47q10jlqikkp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "775304850973-89ss9d55tuhs0chtkljnjas4sqfg4dmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.silvatech.buynsell"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
